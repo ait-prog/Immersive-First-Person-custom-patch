@@ -1,0 +1,3 @@
+Original Mod:
+    Mod Name: "ImmersiveFirstPerson"
+    Link: [IFP](https://github.com/cp2077/ImmersiveFirstPerson)
