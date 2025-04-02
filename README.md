@@ -12,7 +12,7 @@ This is a custom patch designed to enhance the functionality of the [original mo
 ## Installation
 
 1. Download the latest release from the [releases page](https://github.com/cp2077/ImmersiveFirstPerson).
-2. You also need one core mod, exaxctly [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
+2. You also need one core mod, exactly [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
 3. Extract the contents to your game’s mod directory.
 4. Launch the game and enable the mod in the settings.
 
