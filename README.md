@@ -1,3 +1,6 @@
+## new file -> init.lua
+Know working on 2.31 v.
+
 ## ImmersiveFirstPerson-custom-patch
 This is a custom patch designed to enhance the functionality of the [original mod](https://github.com/cp2077/ImmersiveFirstPerson) for Cyberpunk2077. It optimizes key elements, improves performance, and fixes various issues to provide a more seamless and enjoyable experience.
 
